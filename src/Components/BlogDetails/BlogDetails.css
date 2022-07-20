@@ -1,0 +1,8 @@
+.blogdetail-container{
+    display: flex;
+    justify-content: center;
+}
+
+.delete{
+    background-color: rgb(179, 9, 9);
+}
